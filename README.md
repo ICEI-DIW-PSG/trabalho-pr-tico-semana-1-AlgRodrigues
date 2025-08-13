@@ -9,12 +9,11 @@ Matricula: 902081
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print Ferramentas de Desenvolvedor](images/PrintDesenv.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Print Pagina do Replit](images/repl.it.png)
 
 ## Orientações sobre Linguagem MarkDown
 
